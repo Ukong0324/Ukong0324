@@ -5,7 +5,7 @@ Name | Description
 2003.03.24 | **It's the day I was born**
 2017.06.20 | **The first day I encountered coding (C, Scratch)**
 ??? | **(Discord Team) StayCute Manager joined**
-2019.05.16 ~ 2020.04.24 | **I developed a bot called [UKong](https://github.com/Ukong0324/UKong-Jasper) in Discord (Node.js, Repository Private)**
+2019.05.16 ~ Now | **I developed a bot called [UKong](https://github.com/Ukong0324/UKong-Jasper) in Discord (Node.js, Repository Private)**
 2019.10.26 | **Completion of Korea University Software Camp (Python)**
 2019.11.08 | **There was an information contest at high school, but it fell.**
 2020.01.10 ~ Now | **(Discord Team) StayCute appointment as team leader**
