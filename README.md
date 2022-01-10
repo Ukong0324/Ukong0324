@@ -1,20 +1,27 @@
-### 저의 인생의 대한 포트폴리오를 작성을 해보았습니다.
+<h1 align="center">Youbin Choi</h1>
+<h3 align="center">Strive for a better life</h3>
 
-Name | Description
------------- | -------------
-2003.03.24 | **It's the day I was born**
-2017.06.20 | **The first day I encountered coding (C, Scratch)**
-??? | **(Discord Team) Joined StayCute as a Manager**
-2019.05.16 ~ Now | **I developed a bot called [UKong](https://github.com/Ukong0324/UKong-Jasper) in Discord (Node.js, Repository Private)**
-2019.10.26 | **Completion of Korea University Software Camp (Python)**
-2019.11.08 | **There was an information contest at high school, but I felled.**
-2020.01.10 ~ Now | **(Discord Team) StayCute appointment as team leader**
-2020.04.18 ~ Now | **I am developing a Discord Bot called [Game-stats](https://github.com/Ukong0324/Game-Stats) (Node.js, Repository Private)**
-2020.05.11 ~ 11.09 | **I'm going to wrap up my software-related camp at Konkuk University. (Python)**
-2020.05.08 ~ Now | **I made a discord.js tutorial in [Github](https://github.com/Ukong0324/Discord-JS-Tutorial) and [Goorm EDU](https://edu.goorm.io/learn/lecture/20853/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC)**
+- 🔭 I’m currently working on [RustyCrown (Private Project)](https://github.com/Ukong0324/rustycrown-bot)
 
-```js
-console.log("Hello, New World")
-```
+- 🌱 I’m currently learning **Node.js, Python**
 
-***Thanks for the reading my portfolio!***
+- 👨‍💻 All of my projects are available at [https://github.com/Ukong0324?tab=repositories](https://github.com/Ukong0324?tab=repositories)
+
+- 💬 Ask me about **Rust Server, Node.js and something**
+
+- 📫 How to reach me **ukong@kakao.com**
+
+- ⚡ Donate: **[Paypal](https://paypal.me/JasperXD)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/youbin._.0324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youbin._.0324" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCqImqeJ7SRrxWNZIWBJEBVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucqimqej7srrxwnziwbjebvg" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ukong0324&show_icons=true&locale=en&layout=compact" alt="ukong0324" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ukong0324&show_icons=true&locale=en" alt="ukong0324" /></p>
