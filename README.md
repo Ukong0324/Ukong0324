@@ -1,7 +1,7 @@
 <h1 align="center">Youbin Choi</h1>
 <h3 align="center">Strive for a better life</h3>
 
-- 🔭 I’m currently working on [RustyCrown (Private Project)](https://github.com/Ukong0324/rustycrown-bot)
+- 🔭 I’m currently working on [RustyCrown](https://discord.rustycrown.net) [HappyCoding](https://github.com/Happy-Coding-Team)
 
 - 🌱 I’m currently learning **Node.js, Python**
 
