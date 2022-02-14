@@ -24,6 +24,6 @@
 
 **Servers currently running:**
 
-[![Banner for RustyCrown Monday | 3x | 2/14 JUST FULL WIPED](https://cdn.battlemetrics.com/b/horizontal500x80px/14351362.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/rust/14351362)
+[![Banner for RustyCrown Friday | 3x | 2/11 MAP Wiped](https://cdn.battlemetrics.com/b/horizontal500x80px/13928574.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/rust/13928574)
 
 [![Banner for RustyCrown Monday | 3x | 2/14 JUST FULL WIPED](https://cdn.battlemetrics.com/b/horizontal500x80px/14351362.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/rust/14351362)
