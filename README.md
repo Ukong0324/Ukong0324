@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ukong0324?tab=repositories](https://github.com/Ukong0324?tab=repositories)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/Ukong0324?tab=repositories)
 
 - 💬 Ask me about **Rust Server, Node.js and something**
 
