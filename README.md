@@ -1,5 +1,5 @@
 <h1 align="center">Youbin Choi</h1>
-<h3 align="center">Strive for a better life</h3>
+<h3 align="center">Trying to live a better life.</h3>
 
 - 🔭 I’m currently working on [RustyCrown](https://discord.rustycrown.net) [HappyCoding](https://github.com/Happy-Coding-Team)
 
