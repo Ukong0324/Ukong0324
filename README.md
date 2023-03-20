@@ -1,7 +1,7 @@
 <h1 align="center">Youbin Choi</h1>
 <h3 align="center">Trying to live a better life.</h3>
 
-- 🔭 I’m currently working on [Miho Servers](https://discord.gg/mihorust) [Qbit](https://github.com/Delight-Studio)
+- 🔭 I’m currently working on [Miho Servers](https://discord.gg/mihorust), [Qbit](https://github.com/Delight-Studio)
 
 - 🌱 I’m currently learning **Node.js, Python, C#**
 
