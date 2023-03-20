@@ -1,9 +1,9 @@
 <h1 align="center">Youbin Choi</h1>
 <h3 align="center">Trying to live a better life.</h3>
 
-- 🔭 I’m currently working on [RustyCrown](https://discord.rustycrown.net) [HappyCoding](https://github.com/Happy-Coding-Team)
+- 🔭 I’m currently working on [Miho Servers](https://discord.gg/mihorust) [Qbit](https://github.com/Delight-Studio)
 
-- 🌱 I’m currently learning **Node.js, Python**
+- 🌱 I’m currently learning **Node.js, Python, C#**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Ukong0324?tab=repositories)
 
