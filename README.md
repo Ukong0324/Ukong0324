@@ -11,7 +11,7 @@
 
 ## 🛠 기술 스택
 
-`Node.js`, `Python`, `R`, `C#`, `Git`, 
+`Node.js`, `Python`, `R`, `C#`, `Git`, `여러 언어와 툴들..`
 
 ## 📈 GitHub 통계
 [![GitHub 통계](https://github-readme-stats.vercel.app/api?username=ukong0324&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
