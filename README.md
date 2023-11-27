@@ -1,18 +1,27 @@
-<h1 align="center">Youbin Choi</h1>
-<h3 align="center">Trying to live a better life.</h3>
+# 👨‍💻 Youbin Choi
 
-- 🔭 I’m currently working on [Miho Servers](https://discord.gg/mihorust), [Qbit](https://github.com/Delight-Studio)
+## 🚀 소개
+안녕하세요, 저는 최유빈입니다. 머신러닝이나 클라우드 시스템에 열정을 가지고 있으며, 도움이 되는 인공지능이나 소프트웨어를 만드는 데에 흥미를 느낍니다.
 
-- 🌱 I’m currently learning **Node.js, Python, C#**
+- 🛠️ 현재 집중하고 있는 기술: `머신러닝`, `클라우드`
+- 📚 배우고 있는 새로운 기술: `자연어`, `대형 언어 모델`
+- 💬 나의 전문 분야: `인공지능`
+- 📫 연락처: `ukong@kakao.com`
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/Ukong0324?tab=repositories)
+## 🛠 기술 스택
 
-- 💬 Ask me about **Rust Server, Node.js and something**
+`Node.js`, `Python`, `R`, `C#`, `Git`, 
 
-- 📫 How to reach me **ukong@kakao.com**
+## 📈 GitHub 통계
+[![GitHub 통계](https://github-readme-stats.vercel.app/api?username=ukong0324&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- ⚡ Donate: **[Paypal](https://paypal.me/JasperXD)**
+## 🌟 주요 프로젝트
+- **비공개 프로젝트를 진행하고 있습니다. 궁금한 점이 있다면 이메일을 통해 연락주시면 감사하겠습니다.**
+  
+## 🔗 소셜 및 연락처
+- Blog: `https://blog.ukong.studio`
+- Discord: `ukong0324`
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+⭐️ [![GitHub followers](https://img.shields.io/github/followers/ukong0324?style=social)](https://github.com/yourusername)
