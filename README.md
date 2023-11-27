@@ -16,7 +16,8 @@
 [![GitHub 통계](https://github-readme-stats.vercel.app/api?username=ukong0324&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 주요 프로젝트
-- **비공개 프로젝트를 진행하고 있습니다. 궁금한 점이 있다면 이메일을 통해 연락주시면 감사하겠습니다.**
+- [노션 링크](https://ukong.notion.site/9c073aa4a88c41a482da39db2563673d?pvs=4)
+- **이외에도 비공개 프로젝트를 진행하고 있습니다. 궁금한 점이 있다면 이메일을 통해 연락주시면 감사하겠습니다.**
   
 ## 🔗 소셜 및 연락처
 - Blog: `https://blog.ukong.studio`
